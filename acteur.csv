@@ -1,0 +1,864 @@
+﻿num_episode;id_acteur;nom_prenom_acteur;nom_personnage;statut
+1;1;Gemma Jones ; Anne Staveley;Invité
+1;2;Patrick Troughton ; George Jackson;Invité
+1;3;James Laurenson ; Tony Richards;Invité
+1;4;Norman Jones ; Chief Inspector Bell;Invité
+1;5;Spencer Leigh ; Ned Murdoch;Invité
+1;6;Annie Lambert ; Adele Richards;Invité
+1;7;Richard Durden ; Alan Richards;Invité
+1;8;Charlotte Mitchell ; Mrs Staveley;Invité
+1;9;David Michaels ; Pete;Invité
+1;10;Paul Dixey ; Tutor;Invité
+1;11;Christopher Guinee ; Grimes;Invité
+1;12;Richard Cubison ; Pharmacist;Invité
+1;13;Souad Faress ; Hospital Doctor;Invité
+1;14;Philip Voss ; Coroner;Invité
+1;15;Adam Morris ; Constable Dixon (as Wayne Morris);Invité
+1;16;Gary Webster ; Colin;Invité
+1;17;Sally Cooper ; Receptionist;Invité
+1;18;Rupert Holliday;Evans ;Invité
+1;19;Charles Hodgson ; Jack Hornsby;Invité
+1;20;Irene Sutcliffe ; Mrs Hornsby;Invité
+1;21;Gary Powell ; Constable;Invité
+1;22;Charlotte Stone ; Charlotte;Invité
+2;23;Barbara Flynn ; Monica Height;Invité
+2;24;Michael Gough ; Philip Ogleby;Invité
+2;25;Clive Swift ; Dr Bartlett;Invité
+2;26;Frederick Treves ; Dean of Lonsdale College;Invité
+2;27;Anthony Smee ; Roope;Invité
+2;28;Roger Lloyd Pack ; Donald Martin;Invité
+2;29;Julie Neubert ; Mrs. Martin;Invité
+2;30;Phil Nice ; Nicholas Quinn;Invité
+2;31;Elspet Grey ; Mrs. Quinn;Invité
+2;32;Arthur Cox ; Noakes;Invité
+2;33;Philip Voss ; Coroner;Invité
+2;34;Gabrielle Blunt ; Mrs. Evans;Invité
+2;35;Angela Barlow ; Nurse;Invité
+2;36;Denyse Alexander ; Cinema Manageress;Invité
+2;37;Stefan Schwartz ; Richard Bartlett;Invité
+2;38;Saul Reichlin ; Sheik of Al;Invité
+2;39;Diana Blackburn ; Lip;Invité
+2;40;Malcolm Mudie ; Mr. Parker;Invité
+2;41;Hugh Evans ; Landlord;Invité
+2;42;Kate O Connell ; Barmaid;Invité
+3;43;Angela Morant ; Ruth Rawlinson;Invité
+3;44;John Normington ; Lionel Pawlen;Invité
+3;45;Maurice O Connell ; Harry Josephs;Invité
+3;46;Judy Campbell ; Mrs. Rawlinson;Invité
+3;47;Michael Hordern ; Doctor Starkie;Invité
+3;48;Norman Jones ; Chief Superintendent Bell;Invité
+3;49;James Griffiths ; Paul Morris;Invité
+3;50;Chrissy Iddon ; Brenda Josephs;Invité
+3;51;Karl Francis ; Taffy;Invité
+3;52;Michael Goldie ; Jimmy;Invité
+3;53;Michael Fenner ; Detective Constable Mitchell;Invité
+3;54;Bev Willis ; Denman;Invité
+3;55;Bill Moody ; Police Sergeant;Invité
+3;56;Saul Jephcott ; Waterman;Invité
+3;57;Stuart Saunders ; Church Warden;Invité
+3;58;James Greene ; Defence Counsel;Invité
+3;59;Robert Gary ; Prosecuting Counsel;Invité
+3;60;Richardson Morgan ; Landlord (as Ric Morgan);Invité
+3;61;Paul Ridley ; Husband;Invité
+3;62;Maureen Bennett ; Wife;Invité
+3;63;Andrew Reed ; Peter Morris;Invité
+3;64;Norma Shebbeare ; Hotel Proprietor;Invité
+3;65;Christopher Gray ; Policeman;Invité
+3;66;Joanna Wake ; Nurse;Invité
+3;67;Gina McKee ; Girl in Betting Shop;Invité
+3;68;Malcolm Kaye ; Gambler;Invité
+3;69;Salome Bull ; Choirboy;Invité
+4;70;Simon Callow ; Theodore Kemp;Invité
+4;71;Kenneth Cranham ; Cedric Downes;Invité
+4;72;Roberta Taylor ; Sheila Williams;Invité
+4;73;Robert Arden ; Eddie Poindexter;Invité
+4;74;Christine Norden ; Laura Poindexter;Invité
+4;75;Bill Reimbold ; Howard Brown;Invité
+4;76;Helena Stevens ; Shirley Brown;Invité
+4;77;John Bloomfield ; Phil Aldrich;Invité
+4;78;Mildred Shay ; Janet Roscoe;Invité
+4;79;Jane Bertish ; Marion Kemp;Invité
+4;80;Christine Kavanagh ; Lucy Downes;Invité
+4;81;Cherith Mellor ; Fiona Hall;Invité
+4;82;Nicholas Bell ; Doctor Swain;Invité
+4;83;Tim Faulkner ; Hotel Manager;Invité
+4;84;Iain Ormsby;Knox  Duty Sergeant;Invité
+4;85;Maureen Morris ; Nurse;Invité
+4;86;Sara Coward ; Lynn;Invité
+4;87;Ron Copsey ; Waiter;Invité
+4;88;Teddie Thompson ; Waitress (as Teddy Thompson);Invité
+5;89;Peter McEnery ; Donald Phillipson;Invité
+5;90;Suzanne Bertish ; Cheryl Baines;Invité
+5;91;Glyn Houston ; George Craven;Invité
+5;92;Frances Tomelty ; Grace Craven;Invité
+5;93;Fiona Mollison ; Sheila Phillipson;Invité
+5;94;Philip Bretherton ; David Acum;Invité
+5;95;Melissa Simmons ; Valerie Craven;Invité
+5;96;Nicholas Pritchard ; John Maguire;Invité
+5;97;Elizabeth Hurley ; Julia;Invité
+5;98;Michele Winstanley ; Fiona (as MichÃ¨le Winstanley);Invité
+5;99;Julia Sawalha ; Rachel;Invité
+5;100;Auriol Goldingham ; Lesley;Invité
+5;101;Venetia Barrett ; Mrs. Webb;Invité
+5;102;Geoffrey Church ; PC Franks;Invité
+5;103;Maggie Holland ; Martha;Invité
+5;104;Liz Kettle ; Policewoman (as Elizabeth Kettle);Invité
+5;105;Roger Booth ; Bartender;Invité
+5;106;David Trevena ; Porter;Invité
+5;107;Susanna Nicholas ; Receptionist;Invité
+5;108;Amanda Dickinson ; Check out Girl;Invité
+5;109;Clare Bennett ; Becky Phillipson;Invité
+5;110;Charles Gilmore ; Charlie Phillipson;Invité
+5;111;George Gilmore ; George Phillipson;Invité
+6;112;Anna Calder;Marshall  Jane Robson;Invité
+6;113;Robert Stephens ; Sir Wilfred Mulryne;Invité
+6;114;Derek Fowlds ; Kurt Friedman, aka Michael Robson;Invité
+6;115;Robert Lang ; Chief Superintendent Dewar;Invité
+6;116;Avis Bunnage ; Mrs. Warbut;Invité
+6;117;Amanda Burton ; Mirella Lunghi;Invité
+6;118;Philip Middlemiss ; Graham Daniel;Invité
+6;119;Eiji Kusuhara ; Yukio Li;Invité
+6;120;Tim Barker ; Ralph Thomas;Invité
+6;121;Llewellyn Rees ; Reverend Robson;Invité
+6;122;Blue MacAskill ; Alex Robson;Invité
+6;123;Ellis Van Maarseveen ; Heidi Vettinger;Invité
+6;124;Ian McCurrach ; Swedish Student;Invité
+6;125;Jack Ellis ; Sergeant;Invité
+6;126;Kenneth Hadley ; Peters;Invité
+6;127;Gordon Kennedy ; Dewar s Detective;Invité
+6;128;Michael Goldie ; Tramp;Invité
+6;129;Liz Kettle ; Policewoman (as Elizabeth Kettle);Invité
+6;130;Basienka Blake ; Gardener;Invité
+7;131;Anthony Bate ; Bernard Crowther;Invité
+7;132;Terrence Hardiman ; Clive Palmer;Invité
+7;133;Fabia Drake ; Mrs. Jarman;Invité
+7;134;Jill Baker ; Jennifer Coleby;Invité
+7;135;Holly Aird ; Angie Hartman;Invité
+7;136;Paul Geoffrey ; Peter Newman;Invité
+7;137;Ingrid Lacey ; Mary Widdowson;Invité
+7;138;Shirley Dixon ; Margaret Crowther;Invité
+7;139;Ian Sears ; John Sanders;Invité
+7;140;Perry Fenwick ; Jimmy;Invité
+7;141;Shirley Stelfox ; Mrs. Kane;Invité
+7;142;Jenny Jay ; Sylvia Kane;Invité
+7;143;Diana Payan ; Vicki Phillips;Invité
+7;144;Anne Havard ; Sally;Invité
+7;145;Vass Anderson ; Mr. Bentley;Invité
+7;146;Jo Unwin ; Receptionist;Invité
+7;147;Steph Bramwell ; Senior Sister (as Steph Branwell);Invité
+7;148;Ian Bleasdale ; Time and Motion Expert;Invité
+7;149;Amanda Wenban ; Typist;Invité
+7;150;Kate Percival ; Lab Assistant;Invité
+7;151;P.J. Davidson ; Game Keeper;Invité
+7;152;Dave Roberts ; Police Officer;Invité
+7;153;Steven Law ; Assistant in Snooker Shop;Invité
+7;154;Paul Lawrence Davis ; Doctor;Invité
+8;155;Patricia Hodge ; Lady Hanbury;Invité
+8;156;Clifford Rose ; Dr. Charles Hudson;Invité
+8;157;Bernard Lloyd ; Professor Edward Ullman;Invité
+8;158;Michael Godley ; Sir Julius Hanbury;Invité
+8;159;Michael Thomas ; John McKendrick;Invité
+8;160;Patsy Byrne ; Mrs. Maltby;Invité
+8;161;Irina Brook ; Michelle RÃ©age;Invité
+8;162;Lill Roughley ; Betty Parker;Invité
+8;163;Robert Oates ; Ted Parker;Invité
+8;164;John Elmes ; Roger Meadows;Invité
+8;165;John Cater ; The Dean;Invité
+8;166;Rainbow Dench ; Georgina Hanbury;Invité
+8;167;Michael Bertenshaw ; Detective;Invité
+8;168;Jonathan Donne ; Constable;Invité
+8;169;Alan Barker ; Plain Clothes Officer;Invité
+8;170;Eunice Roberts ; Policewoman;Invité
+8;171;Trevor Martin ; Porter;Invité
+8;172;Seeta Indrani ; Laboratory Assistant;Invité
+8;173;Claire Skinner ; Girl Pupil;Invité
+9;174;Barry Foster ; Sir Alexander Reece;Invité
+9;175;Michael Aldridge ; Arthur Drysdale;Invité
+9;176;Tenniel Evans ; Dr. David Kerridge;Invité
+9;177;Beatie Edney ; Deborah Burns;Invité
+9;178;Sian Thomas ; Carol Sharp;Invité
+9;179;Lana Morris ; Miss Tree;Invité
+9;180;Bert Parnaby ; Ben;Invité
+9;181;Mark Tandy ; Mr. Collins;Invité
+9;182;Pauline Munroe ; Dentist;Invité
+9;183;Albert Welling ; Chris Stoneley;Invité
+9;184;Kevin McMonagle ; Geoff;Invité
+9;185;Michael Percival ; Landlord;Invité
+9;186;Philip Bloomfield ; Sam;Invité
+9;187;Jill Johnson ; Mrs. Burns;Invité
+9;188;Gertan Klauber ; German Man;Invité
+9;189;Jackie Buchanan ; German Woman;Invité
+9;190;Susannah Hitching ; Girl on Boat;Invité
+9;191;Nikki Brooks ; Young Woman;Invité
+9;192;Nathan Lewis ; Young Man;Invité
+9;193;Laura Sadler ; Sabena;Invité
+10;194;Norman Rodway ; Roland Marshall;Invité
+10;195;Sharon Maughan ; Kate Donn;Invité
+10;196;Daniel Massey ; Anthony Donn;Invité
+10;197;Jane Booker ; Philippa Foster;Invité
+10;198;Nicky Henson ; Vince Cranston;Invité
+10;199;Bryan Pringle ; Barker;Invité
+10;200;Geoffrey Beevers ; Peter Foster;Invité
+10;201;Nathaniel Parker ; Jamie Jasper (as Nat Parker);Invité
+10;202;Stephen Moore ; Radio Producer;Invité
+10;203;Peter Amory ; DC Hilaire;Invité
+10;204;Martin Chamberlain ; Clarets  Captain;Invité
+10;205;Adam Tomlinson ; Clarets  Batsman;Invité
+10;206;Kit Jackson ; Clarets  Player;Invité
+10;207;Charles Collingwood ; Cassidy, Clarets  Fast Bowler;Invité
+10;208;Andrew Paul ; Suspect Interviewee;Invité
+10;209;Ann Bryson ; Radio Producer s P.A.;Invité
+10;210;Elin Jenkins ; WPC;Invité
+10;211;David Shaw Parker ; Forensic Sergeant (as David Shaw;Invité
+10;212;John Patrick ; Patrol Officer;Invité
+10;213;Brian Johnston ; Cricket Commentator (voice);Invité
+11;214;Mel Martin ; Rosemary Henderson;Invité
+11;215;Marion Bailey ; Fran Pierce;Invité
+11;216;Andrew Wilde ; Edward Manley;Invité
+11;217;Philip McGough ; Brian Pierce;Invité
+11;218;George Irving ; George Henderson;Invité
+11;219;Susan Kyd ; Camilla;Invité
+11;220;Kate Lansbury ; Mrs. Cameron;Invité
+11;221;Cathryn Bradshaw ; Janice;Invité
+11;222;Tom Radcliffe ; Ray Miles;Invité
+11;223;Pamela Miles ; Amy Morris;Invité
+11;224;Brian Poyser ; Inspector Cyril Dewar;Invité
+11;225;Ivor Roberts ; Mr. Waugh;Invité
+11;226;Robert Gladwell ; Band Leader;Invité
+11;227;Michael Haughey ; Undertaker;Invité
+11;228;Cheryl Moskowitz ; Nurse;Invité
+11;229;Isobel Reid ; Gloria;Invité
+11;230;John Dixon ; Constable;Invité
+11;231;John Bleasdale ; Constable;Invité
+11;232;Catherine Livesey ; Aerobics Leader;Invité
+11;233;Richard Hawley ; Orderly;Invité
+11;234;Michael Melia ; Decorator;Invité
+11;235;Fraser Downie ; Mick;Invité
+12;236;Geoffrey Palmer ; Matthew Copley Barnes;Invité
+12;237;David Neal ; Dr. Julian Dear;Invité
+12;238;Barbara Leigh;Hunt  Blanche Copley Barnes;Invité
+12;239;Pearce Quigley ; Mick McGovern;Invité
+12;240;Michael Attwell ; Parsons;Invité
+12;241;Cheryl Campbell ; Sylvie Maxton;Invité
+12;242;John Joyce ; Mr. Gray;Invité
+12;243;Ian Brimble ; Phil Hopkirk;Invité
+12;244;Tom Wilkinson ; Jake Normington;Invité
+12;245;Irene Richard ; Imogen Garrett;Invité
+12;246;George Costigan ; Ron Garrett;Invité
+12;247;Denys Hawthorne ; Chief Superintendent Rennie;Invité
+12;248;Sydnee Blake ; Mrs. McGovern;Invité
+12;249;Philippa Howell ; Ward Sister (as Phillipa Howell);Invité
+12;250;Michelle Wesson ; Mandy Hopkirk;Invité
+12;251;Catherine Terris ; Hopkirk s Housekeeper;Invité
+13;252;Andy Bradford ; Trevor Radford;Invité
+13;253;Trevor Martin ; Alan Sowden;Invité
+13;254;Paul Mooney ; Pathologist;Invité
+13;255;Simon Slater ; Norman Weeks;Invité
+13;256;Kamilla Blanche ; Gail;Invité
+13;257;Jean Ainslie ; Cleaning Lady;Invité
+13;258;Kim Thomson ; Helen Radford;Invité
+13;259;Noel Johnson ; Butler;Invité
+13;260;Isabel Dean ; Isobel Radford;Invité
+13;261;Paul Shelley ; Stephen Radford;Invité
+13;262;Lionel Jeffries ; Charles Radford;Invité
+13;263;Alex Jennings ; Victor Preece;Invité
+13;264;Betty Marsden ; Cynthia Preece;Invité
+13;265;John Bird ; George Linacre;Invité
+13;266;John Golightly ; Alford Nelson;Invité
+13;267;Bernard Brown ; Wheatley;Invité
+13;268;San Lee ; Maid;Invité
+13;269;Lisa Harrow ; Thelma Radford;Invité
+13;270;Maggie Wilkinson ; Shirley;Invité
+13;271;Liz Kettle ; WPC;Invité
+14;272;Julia Lane ; Jackie Thorn;Invité
+14;273;Tariq Yunus ; George;Invité
+14;274;Tessa Wojtczak ; Angie Howe;Invité
+14;275;Patrick Malahide ; Jeremy Boynton;Invité
+14;276;Richard Huw ; Detective Constable Dearden;Invité
+14;277;Al Ashton ; Detective;Invité
+14;278;Will Brenton ; Detective;Invité
+14;279;Chris Jenkinson ; Detective;Invité
+14;280;David Lonsdale ; Detective;Invité
+14;281;Christopher Fulford ; Tim Ablett;Invité
+14;282;Carolyn Choa ; Phillipa Lau;Invité
+14;283;Ken Nazarin ; Whyting Lau;Invité
+14;284;Mary Jo Randle ; D.S. Maitland;Invité
+14;285;Murray Ewan ; Security Officer;Invité
+14;286;Cheryl Maiker ; Paula Steadman;Invité
+14;287;Malcolm Raeburn ; Martin Kass;Invité
+14;288;Kate Doherty ; Driving Instructor;Invité
+14;289;David Ryall ; Derek Whittaker;Invité
+14;290;Jake Wood ; Jimmy;Invité
+14;291;Lynne Morgan ; Sandra;Invité
+14;292;Steve Shill ; Deaf Salesman;Invité
+14;293;Richard Vanstone ; Gerry Firth;Invité
+14;294;James Duggan ; Prison Warden;Invité
+15;295;Madelaine Newton ; Beryl Newsome;Invité
+15;296;Ian McDiarmid ; Hugo De Vries;Invité
+15;297;Celestine Randall ; Sandra Machin;Invité
+15;298;Roland Oliver ; Conductor;Invité
+15;299;John Arthur ; Hall Porter;Invité
+15;300;Richard Kane ; Chief Inspector Bottomley;Invité
+15;301;Steven Elliot ; Officious Constable (as Steven Elliott);Invité
+15;302;Richard Huw ; Detective Constable Dearden;Invité
+15;303;Iain Cuthbertson ; Desmond McNutt;Invité
+15;304;Mark Strong ; PC Mike Butterworth;Invité
+15;305;Diane Fletcher ; Marion Brooke;Invité
+15;306;Ken Drury ; Norman;Invité
+15;307;James Smith ; R.G. Prettyman;Invité
+15;308;Jenny Howe ; Angry Neighbour;Invité
+15;309;Piers Ibbotson ; Ambulance Man;Invité
+15;310;Yvonne Gidden ; Yvonne;Invité
+15;311;Michael Mears ; Wine Merchant;Invité
+15;312;Tip Tipping ; P.C. Dene;Invité
+16;313;Jenny Laird ; Mrs. Keelan;Invité
+16;314;Oliver Ford Davies ; Frederick Redpath;Invité
+16;315;Kenneth Colley ; Detective Chief Inspector Patrick Dawson;Invité
+16;316;Maurice Bush ; Charlie Hillian;Invité
+16;317;Ann Bell ; Catherine Dawson;Invité
+16;318;Mark Draper ; Angry Policeman;Invité
+16;319;Simon Adams ; Incontinent Policeman;Invité
+16;320;Pat Heywood ; Mrs. Mitchell;Invité
+16;321;Christopher Eccleston ; Terrence Mitchell;Invité
+16;322;Peter Waddington ; Pathologist;Invité
+16;323;Liz Kettle ; WPC;Invité
+16;324;David Baukham ; Desk Sergeant (as David Bauckham);Invité
+16;325;Adie Allen ; Barbara Redpath;Invité
+16;326;Sam Kelly ; Walter Majors;Invité
+16;327;Claude Le SachÃ© ; French Man;Invité
+16;328;Pamela Stirling ; French Woman;Invité
+16;329;Shahnaz Pakravan ; Doctor;Invité
+16;330;Robert Goodale ; Reardon;Invité
+16;331;Helena McCarthy ; Rose Lapsley;Invité
+16;332;Graeme Du;Fresne  Photographer (as Graeme du Fresne);Invité
+16;333;Matthew Green ; DoE Official;Invité
+16;334;Neale McGrath ; Cowan;Invité
+16;335;Peter Gordon ; Parks;Invité
+16;336;Simon Coady ; Street Preacher;Invité
+16;337;Russell Kilmister ; John Mitchell;Invité
+17;338;Maurice Denham ; Lance Mandeville;Invité
+17;339;David Gant ; Geoffrey Boyd;Invité
+17;340;Julian Gartside ; Desmond Kelly;Invité
+17;341;Caroline Ryder ; Dinah Newberry;Invité
+17;342;ZoÃ« Wanamaker ; Emma Pickford;Invité
+17;343;Maggie O Neill ; Hilary Dobson;Invité
+17;344;Sarah Carpenter ; Victoria Hazlett;Invité
+17;345;Una Brandon;Jones Nadine Stacey;Invité
+17;346;Arbel Jones ; Jane Barnes;Invité
+17;347;Nicholas Selby ; Dr Corder;Invité
+17;348;Eileen Dunwoodie ; Mrs Gardam;Invité
+17;349;Kenneth Haigh ; Freddie Galt;Invité
+17;350;Tilly Vosburgh ; Irene Saunders;Invité
+17;351;Alan Starkey ; Rowlands;Invité
+17;352;Ben Onwukwe ; Doctor;Invité
+17;353;William Roberts ; Hank Briardale;Invité
+17;354;Dorothea Alexander ; Mrs Hulme;Invité
+17;355;Badi Uzzerman ; Chip Van Owner;Invité
+17;356;Josephine Welcome ; Judy;Invité
+17;357;Maureen Bennett ; Val Lewis;Invité
+17;358;Peggy Mount ; Nun;Invité
+18;359;Trevor Byfield ; Harry Field;Invité
+18;360;John Castle ; Tony Doyle;Invité
+18;361;Geraldine James ; Helen Field;Invité
+18;362;Nicola Cowper ; Jane Marriot;Invité
+18;363;Steven Payne ; Sergeant Taylor;Invité
+18;364;Andy Mulligan ; Gordon Collins;Invité
+18;365;Helena Lymbery ; Barmaid;Invité
+18;366;Sean Cranitch ; Patrol Man;Invité
+18;367;David Belcher ; Landlord;Invité
+18;368;Maureen Bennett ; Val Lewis;Invité
+18;369;Philip Locke ; Freddie Mortimer;Invité
+18;370;Veronica Lang ; Julia;Invité
+18;371;Ronald Pickup ; Ian Matthews;Invité
+18;372;Freddie Jones ; Harry Field Senior;Invité
+18;373;Vania Vilers ; Paul Eirl;Invité
+18;374;Jeremy Clyde ; Roger McMill;Invité
+18;375;Dicken Ashworth ; George Drummond;Invité
+18;376;Anna Patrick ; Eirl s Secretary;Invité
+18;377;Stephan Grothgar ; Carl (as Stephen Grothgar);Invité
+18;378;Brian Lipson ; McCabe;Invité
+19;379;James Hazeldine ; Digby Tuckerman;Invité
+19;380;Mike Kremastoules ; Nicos Capparis;Invité
+19;381;Andreas Markos ; Mr Papas;Invité
+19;382;Eileen Way ; Mrs Papas;Invité
+19;383;Jan Harvey ; Friday Rees;Invité
+19;384;Stephen Holland ; Young Husband (TV Interview);Invité
+19;385;Edda Sharpe ; Young Wife (TV Interview);Invité
+19;386;Maureen Bennett ; Val Lewis;Invité
+19;387;Andrew Kazamia ; Dinos Papas;Invité
+19;388;James Faulkner ; Basilios Vasilakis;Invité
+19;389;Eve Polycarpou ; Jocasta Georgiadis (as Eve Adam);Invité
+19;390;Martin Jarvis ; Randall Rees;Invité
+19;391;Richard Pearson ; Jerome Hogg;Invité
+19;392;Elvira Poulianou ; Maria Capparis;Invité
+19;393;Carole Ashby ; Laura;Invité
+19;394;Jonny Lee Miller ; Student;Invité
+19;395;Lucy Meacock ; Daisy (as Lucy Maycock);Invité
+19;396;Emma Cunningham ; Student Union Official;Invité
+19;397;Ian Sharp ; First Angler;Invité
+19;398;Rosalind Marsh ; Susie Tuckerman;Invité
+19;399;Rebecca Lamb ; Mother s Help;Invité
+19;400;Sarah Bullen ; Mrs Vasilakis;Invité
+20;401;Con O Neill ; Paul Matthews;Invité
+20;402;Philip Anthony ; Newspaper Editor;Invité
+20;403;Kevin Leslie ; Barman;Invité
+20;404;Bill Young ; Farmer in Ute;Invité
+20;405;Vanessa Patterson ; Karen Harding;Invité
+20;406;Rhondda Findleton ; Anne Harding;Invité
+20;407;Marie Armstrong ; Sash (Nursing Home Matron);Invité
+20;408;John Jaratt ; Sergeant Scott Humphries;Invité
+20;409;Maureen Green ; Sal (Nurse);Invité
+20;410;Noah Taylor ; Dave Harding;Invité
+20;411;Paul Hunt ; Shearing Foreman;Invité
+20;412;Max Phipps ; Detective Inspector Glenn McAllister;Invité
+20;413;Peter Browne ; Detective Gary Warrender;Invité
+20;414;Shayne Foote ; Barmaid;Invité
+21;415;Brendan O Hea ; Telecom Engineer;Invité
+21;416;David Haig ; Peter Rhodes;Invité
+21;417;Susan Jane Tanner ; Nurse Rogers (as Susan Jane Tanner);Invité
+21;418;James Walker ; Henry Fallon;Invité
+21;419;Martyn Waites ; Duty Constable;Invité
+21;420;Thomas Craig ; Desk Sergeant;Invité
+21;421;Roger Frost ; Photographer;Invité
+21;422;James Grant ; McGregor;Invité
+21;423;Richard Pascoe ; William Bryce Morgan;Invité
+21;424;Joanna David ; Susan Fallon;Invité
+21;425;Lesley Vickerage ; WPC;Invité
+21;426;Christopher Owen ; Solicitor;Invité
+21;427;Richard Hampton ; Coroner;Invité
+21;428;Tony Mathews ; Pathologist;Invité
+21;429;Samantha Bond ; Helen Marriat;Invité
+21;430;Adrian Dunbar ; John Marriat;Invité
+21;431;Dominic Keating ; Murray Stone;Invité
+21;432;Alexander John ; Court Official;Invité
+21;433;Vincent Pickering ; Telephone Exchange Man;Invité
+21;434;Greer Gaffney ; Henrietta Fallon;Invité
+21;435;Michael B Tomlinson ; Constable (as Michael Tomlinson);Invité
+22;436;Sukie Smith ; Lorraine;Invité
+22;437;Gwen Taylor ; Margaret Cliff;Invité
+22;438;Martin Clunes ; James Balcombe;Invité
+22;439;George Raistrick ; Sir John Balcombe;Invité
+22;440;Jonathan Coy ; Harry Balcombe;Invité
+22;441;Andrew Ray ; Alfred Rydale;Invité
+22;442;Anna Massey ; Lady Emily Balcombe;Invité
+22;443;Mark Draper ; Constable;Invité
+22;444;Rupert Graves ; Billy;Invité
+22;445;Jamie Foreman ; Chas;Invité
+22;446;Liz Kettle ; WPC (as Elizabeth Kettle);Invité
+22;447;Alun Armstrong ; Superintendent Holdsby;Invité
+22;448;Tony Guilfoyle ; Journalist One;Invité
+22;449;Sophie Uliano ; Woman Journalist (as Sophie Heyman);Invité
+22;450;Charlotte Coleman ; Jessica White;Invité
+22;451;Robert Demeger ; Forensic Scientist;Invité
+22;452;David Baukham ; Police Sergeant (as David Bauckham);Invité
+22;453;Ralph Nossek ; Professor Joshua Masterson;Invité
+22;454;Daniel Mitchell ; Journalist Two;Invité
+22;455;Richard Ireson ; Pathologist;Invité
+22;456;Jane van Hool ; Receptionist;Invité
+22;457;Dorian MacDonald ; Constable;Invité
+22;458;Beryl King ; Nottingham Lady;Invité
+22;459;John Styles ; Punch and Judy Man;Invité
+23;460;Michael Kitchen ; Russell Clarke;Invité
+23;461;Christopher Hunter ; Andreas Heller/Louis Picard (as Chris Hunter);Invité
+23;462;Julia Goodman ; May Lawrence;Invité
+23;463;Kate Harper ; Patti Wilcox;Invité
+23;464;Frances Barber ; Nicole Burgess;Invité
+23;465;Alan Rowe ; Alistair Haines;Invité
+23;466;Jane Snowden ; Maureen Dyson;Invité
+23;467;Jane Wenham ; Judith Haines;Invité
+23;468;Peter Blythe ; Kenneth Lawrence;Invité
+23;469;Allan Mitchell ; Coroner;Invité
+23;470;Cesare Landricina ; Driver Ponso;Invité
+23;471;Georges Corraface ; Claudio Battisti;Invité
+23;472;Jolyon Baker ; Guido Ventura;Invité
+23;473;Georgio Serafini ; Tomaso Salafia;Invité
+23;474;Tatyana Colombo ; Piera Conti (as Tattiana Colombo);Invité
+23;475;Valeria Fabbri ; Nicole s Dresser;Invité
+23;476;Janis Kelly ; Nicole Burgess (singing voice);Invité
+24;477;Sean Bean ; Alex Bailey;Invité
+24;478;Diana Quick ; Hilary Stephens;Invité
+24;479;Richard Wilson ; Brian Thornton;Invité
+24;480;David Fielder ; Prison Chaplain;Invité
+24;481;Tony Steedman ; Lawrence Cryer;Invité
+24;482;Susan Doran ; Young Doctor;Invité
+24;483;Luke Williams ; George Newcombe;Invité
+24;484;Robert Pugh ; Geoff Harris (Prison Officer);Invité
+24;485;Cheryl Hall ; Laura (Secretary);Invité
+24;486;David Howey ; Dr. Stephen James Archer (Prison Officer);Invité
+24;487;James Aubrey ; Pathologist;Invité
+24;488;Steven Mackintosh ; DS Cheetham;Invité
+24;489;Jim Broadbent ; Charlie Bennett;Invité
+24;490;Suzanna Hamilton ; Emma Cryer;Invité
+24;491;Pete Lee;Wilson  Paul (Journalist);Invité
+24;492;Paul Dalton ; Rob (Photographer);Invité
+24;493;Richard Hampton ; Coroner;Invité
+24;494;Susan Withers ; Court Usher (as Sue Withers);Invité
+24;495;Jonathan Firth ; Peter Thornton (as Jonathon Firth);Invité
+24;496;Phil Davis ; Roland Sherman/Harold Manners (as Philip Davis);Invité
+24;497;Sue Johnston ; Mrs. Bailey;Invité
+24;498;Kevin Walsh ; Andy Metcalfe;Invité
+24;499;June Watson ; Mrs. Harris;Invité
+24;500;Preston Lockwood ; College Chaplain;Invité
+24;501;Georgia Mitchell ; Doctor in Casualty;Invité
+25;502;Liza Walker ; Vicky Wilson;Invité
+25;503;Jason Isaacs ; Dr. Desmond Collier;Invité
+25;504;Charlotte Chatton ; Marilyn Garrett;Invité
+25;505;Charlie Caine ; Charlie Paget;Invité
+25;506;Anna Chancellor ; Sally Smith;Invité
+25;507;Freddie Brooks ; Jacko Lever;Invité
+25;508;Sorcha Cusack ; Joyce Garrett;Invité
+25;509;Edwina Day ; Gwen Morse;Invité
+25;510;Celia Moore ; Nurse (as Celia Blaker);Invité
+25;511;Matt Terdre ; Ken Lewis (as Matthew Terdre);Invité
+25;512;Glen Meade ; Wayne Garrett;Invité
+25;513;Phillip Joseph ; Keith Garrett;Invité
+25;514;Isla Blair ; Janey Wilson;Invité
+25;515;Christopher Benjamin ; Professor Furlong;Invité
+25;516;John Junkin ; Chief Inspector Holroyd;Invité
+25;517;Larrington Walker ; Charley Lever;Invité
+25;518;Doreen Ingleton ; Annie Lever;Invité
+25;519;Charlie Roe ; Mr. Greenhill;Invité
+25;520;Anita Wright ; Mrs. Venables;Invité
+25;521;Cinnamon Bone ; Lyn Lewis;Invité
+25;522;Tania Rodrigues ; Teacher;Invité
+25;523;Simon Gilbey ; Boy in Class;Invité
+25;524;Kay Clayton ; Lady on Video;Invité
+25;525;David Meyer ; Dr. Hallett;Invité
+25;526;Rosalind Boxall ; Hilary Lane;Invité
+25;527;Bill Wallis ; Dr. Hayward;Invité
+25;528;Paul Brightwell ; Bristowe;Invité
+25;529;David Baukham ; Desk Sergeant (as David Bauckham);Invité
+25;530;Louise Beattie ; Lizzy Haines;Invité
+25;531;Ian Reddington ; Oakley (Estate Agent);Invité
+25;532;Natasha Pope ; Bristowe s Girlfriend;Invité
+25;533;Michael Parkinson ; Tom (Patrolman);Invité
+26;534;Carol Starks ; Jane Folley;Invité
+26;535;Jason Durr ; John Brewster;Invité
+26;536;Janet Suzman ; Dr. Claire Brewster;Invité
+26;537;Richard Owens ; Dr. Mathew Brewster;Invité
+26;538;Jestyn Phillips ; Card Player (as Jestyn Philips);Invité
+26;539;Adam Maxwell ; Policeman;Invité
+26;540;Ian McNeice ; Pathologist;Invité
+26;541;Robert Swann ; Mark Felsham;Invité
+26;542;David Goudge ; Policeman;Invité
+26;543;Lou Wakefield ; Forensic Scientist;Invité
+26;544;Brian Cox ; Michael Steppings;Invité
+26;545;Patrick Godfrey ; Dr. Greer;Invité
+26;546;Penny Downie ; Nurse Wendy Hazlitt;Invité
+26;547;Connor Byrne ; Constable Willis;Invité
+26;548;Timothy Morand ; Mr. Hart (Pub Landord) (as Tim Morand);Invité
+26;549;Su Elliot ; Mrs. Hart;Invité
+26;550;Peter Aubrey ; Sergeant Benson;Invité
+26;551;Jenny Lynch ; WPC;Invité
+26;552;Nick Haverson ; Operator (as Nicholas Haverson);Invité
+26;553;Charlie Hawkins ; Policeman;Invité
+26;554;Kate Hillier ; Nurse;Invité
+26;555;Peter Leafe ; Caretaker;Invité
+26;556;John Bett ; Thomas Neely;Invité
+26;557;Fiona Farley ; Fingerprint Officer;Invité
+26;558;Keith Hazemore ; Policeman;Invité
+26;559;Martin East ; Policeman;Invité
+26;560;Sarah Souster ; Nurse;Invité
+27;561;Keith Allen ; John Peter Barrie;Invité
+27;562;Harriet Walter ; Dr. Esther Martin;Invité
+27;563;Patrick O Connell ; Jack Vaizey;Invité
+27;564;Anthony Hunt ; Young Porter;Invité
+27;565;Lloyd McGuire ; Clough;Invité
+27;566;John Bleasdale ; Desk Sergeant;Invité
+27;567;Aran Bell ; PC Pringle;Invité
+27;568;Richard Graham ; PC Cobbs;Invité
+27;569;Susan Ellen Flynn ; Waitress;Invité
+27;570;Patrick Drury ; Frank McTeer;Invité
+27;571;Peter Attard ; Mack Shaw;Invité
+27;572;Wayne Norman ; Larry Broomfield;Invité
+27;573;Nicola Scott ; 1st Press Person;Invité
+27;574;Richard Hodder ; 2nd Press Person;Invité
+27;575;Richard Griffiths ; Canon Humphrey Appleton;Invité
+27;576;Jacqueline Leonard ; Miss Sarah Spillers;Invité
+27;577;David Griffith ; Timothy Perry;Invité
+27;578;Katrina Levon ; WPC Nora Curtis;Invité
+27;579;Gilly Coman ; Holly Trevors;Invité
+27;580;Michael Culver ; Maugham Willowbank;Invité
+27;581;Gavin Richards ; Steven Trevors;Invité
+27;582;Rob Dixon ; TV Press Man;Invité
+27;583;Pamela Jikiemi ; Press Person;Invité
+27;584;Martyn Read ; Sergeant Brenner;Invité
+27;585;Nick Hobbs ; Night Hawk 2;Invité
+27;586;Andy Bradford ; Night Hawk 3 (as Andrew Bradford);Invité
+27;587;Bill McCabe ; Poacher;Invité
+27;588;Naomi Capron ; Identikit Officer;Invité
+27;589;Sarah Booth ; Jane Post;Invité
+27;590;Mike Murray ; Mr. Fox;Invité
+27;591;Kevin Stoney ; Heironymous St John;Invité
+27;592;Beverley Klein ; Barmaid;Invité
+27;593;Tony Collins ; Porter;Invité
+27;594;Anthony Carrick ; George Granger (as Antony Carrick);Invité
+27;595;Martin Gower ; Fingerprint Officer;Invité
+27;596;Janis Kelly ; Singer of Massenet Aria (voice);Invité
+28;597;Sheila Gish ; Gwladys Probert;Invité
+28;598;Elaine English ; Tammy;Invité
+28;599;Alan David ; Sir Watkin Davies;Invité
+28;600;Celia Montague ; Adele Baydon;Invité
+28;601;Rachel Weisz ; Arabella Baydon;Invité
+28;602;Paul Rattigan ; Mark Scott;Invité
+28;603;John Bluthal ; Victor Ignotas;Invité
+28;604;Julian Curry ; Alan Cartwright;Invité
+28;605;Don Fellows ; Lyman Stansky;Invité
+28;606;Robert Hardy ; Andrew Baydon;Invité
+28;607;Joan Blackman ; Helen Buscott;Invité
+28;608;Michaela Noakes ; Janet;Invité
+28;609;Allan Corduner ; Gentile Bellocchio;Invité
+28;610;Harry Ditson ; Simon Vavasseur;Invité
+28;611;Caroline Berry ; Mari Probert;Invité
+28;612;Paul Stacey ; Stephen Bartlett;Invité
+28;613;Jennifer Piercey ; Mrs. Thompson;Invité
+28;614;John Gielgud ; Lord Hinksey;Invité
+28;615;Jean Anderson ; Lady Hinksey;Invité
+28;616;Steven Beard ; Florist;Invité
+28;617;Brian Bovell ; Pierre;Invité
+28;618;Julie Legrand ; Brigitte de Plessy;Invité
+28;619;Glen Davies ; Policeman;Invité
+28;620;Doug Bradley ; Clergyman Williams;Invité
+28;621;Charlie Walker;Wise  Page Boy (as Charlie Walker Wise);Invité
+28;622;David Shimwell ; Police Constable;Invité
+28;623;Jason Arcari ; Police Constable;Invité
+28;624;Billy Hartman ; Police Sergeant;Invité
+28;625;Lynne Verrall ; Librarian;Invité
+28;626;Myles Hoyle ; Reporter;Invité
+28;627;Janet Jeffries ; Reporter;Invité
+28;628;Ian Keith ; Police Sergeant;Invité
+28;629;Philip Childs ; Police Detective;Invité
+28;630;Michael Vaughan ; Reporter;Invité
+28;631;Iain Rattray ; Fingerprint Lab Director;Invité
+28;632;Susan McCulloch ; Singing voice of Gwladys Probert (voice);Invité
+29;633;Gary Powell ; Steven Parnell;Invité
+29;634;Vivienne Ritchie ; Claire Osborne;Invité
+29;635;Nicholas Le Prevost ; Dr. Alan Hardinge;Invité
+29;636;Steven Crossley ; Prison Chaplain;Invité
+29;637;Maggie Shevlin ; Margaret Daley;Invité
+29;638;James D. White ; Philip Daley;Invité
+29;639;Christopher Fairbank ; George Daley (as Chris Fairbank);Invité
+29;640;Mark Feakins ; TV Reporter;Invité
+29;641;Malcolm Storry ; DCI Martin Johnson;Invité
+29;642;Michelle Fairley ; Cathy Michaels;Invité
+29;643;John Malcolm ; Williams;Invité
+29;644;George Beach ; DC Renton;Invité
+29;645;Robin Soans ; Alisdair McBride;Invité
+29;646;Neil Dudgeon ; David Michaels;Invité
+29;647;Peter Needham ; Estate Manager;Invité
+29;648;Kay Stonham ; Lynne Hardinge;Invité
+29;649;Simon Scott ; Croxley;Invité
+29;650;Alex Giannini ; Mourner (as Alex Richardson);Invité
+29;651;Shaun Williamson ; Garage Cashier;Invité
+30;652;Gabrielle Lloyd ; Brenda Brooks;Invité
+30;653;Phyllis Logan ; Julia Stevens;Invité
+30;654;Bernard Brown ; Dr. Felix McClure;Invité
+30;655;Jasper Jacob ; Michael Mansell;Invité
+30;656;Benjamin Whitrow ; Brownlee;Invité
+30;657;Tony Haygarth ; Ted Brooks;Invité
+30;658;Shane Hickmott ; Kevin Costyn;Invité
+30;659;Angela Catherall ; Mrs. Barnett;Invité
+30;660;Dominic Brunt ; Detective;Invité
+30;661;Lynn Farleigh ; Jane Cotterell;Invité
+30;662;Josephine Clarke ; Nurse;Invité
+30;663;Amanda Ryan ; Kay Brooks;Invité
+30;664;Nadim Sawalha ; Dr. Hassan;Invité
+30;665;Jason Riddington ; Ashley Davies;Invité
+30;666;Jeremy Peters ; Trainer;Invité
+30;667;Andrew Blair ; Constable;Invité
+30;668;Luke Pursey ; Student;Invité
+30;669;Richard Claxton ; Student;Invité
+30;670;Kate Anne ; Student;Invité
+30;671;Chloe Tucker ; Student;Invité
+30;672;Judi Armstrong ; Receptionist;Invité
+30;673;Steve Edwin ; Waterman;Invité
+30;674;Christopher Ashley ; Policeman;Invité
+30;675;Virginia Grainger ; Hospital Sitcom;Invité
+30;676;Stephen Tindall ; Lab Detective;Invité
+30;677;Andrew Spooner ; Lab Detective (as Andrew James Scott);Invité
+30;678;Susie Fairfax ; Nurse;Invité
+30;679;Nicky Goldie ; Policewoman;Invité
+30;680;Richard Wellings;Thomas Policeman;Invité
+31;681;Mark McGann ; Geoffrey Owens;Invité
+31;682;Julia Dalkin ; Rachel James;Invité
+31;683;Judy Loe ; Adele Cecil;Invité
+31;684;Susan Field ; Mrs. Adams;Invité
+31;685;Roger Allam ; Denis Cornford;Invité
+31;686;Holley Chant ; Shelley Cornford;Invité
+31;687;Richard Briers ; Sir Clixby Bream;Invité
+31;688;Susan Engel ; Dora Hammersby;Invité
+31;689;John Shrapnel ; Dr. Julian Storrs;Invité
+31;690;Lloyd Hutchinson ; DC Jackson;Invité
+31;691;Maggie Steed ; Angela Storrs;Invité
+31;692;Colin McCormack ; Hargreaves (as Colin MacCormack);Invité
+31;693;Jacquelyn Yorke ; Amber;Invité
+31;694;Ben Caplan ; Barman;Invité
+31;695;Nicola Jeffries ; Diane Cullingham;Invité
+31;696;Ashley Gunstock ; Hotel Porter;Invité
+31;697;Nicholas Lopez ; PC Dixon;Invité
+31;698;Margery Bone ; Cathy (Hotel Maid);Invité
+31;699;David Fennell ; Lord Lieutenant;Invité
+31;700;Walter McMonagle ; Chief Constable;Invité
+31;701;Oliver Grig ; Ken Lewis;Invité
+31;702;Candida Gubbins ; Sarah Hickman;Invité
+32;703;Lisa Eichhorn ; Dr. Millicent  Millie  Van Buren;Invité
+32;704;Louisa Lawrenson ; Nurse Hall;Invité
+32;705;David Keyes ; Walter Towns (as David Keys);Invité
+32;706;Paul Mari ; Rory Jack Oldfield;Invité
+32;707;Judy Loe ; Adele Cecil;Invité
+32;708;Alan Mason ; Mr. Greenaway;Invité
+32;709;Aline Mowat ; Sister Nessie McLean;Invité
+32;710;Sara Carver ; Nurse Fiona;Invité
+32;711;Philip Quast ; Mr. Benfield;Invité
+32;712;Karen Staples ; Mona;Invité
+32;713;Matthew Finney ; PC Adrian Kershaw;Invité
+32;714;Jonathon Copestake ; Philip Tomes;Invité
+32;715;Andrew Grubb ; Ward (as Andy Grubb);Invité
+32;716;Kim Durham ; Alfred Musson;Invité
+32;717;Kieran Aherne ; Charles Franks (as Kieran Ahern);Invité
+32;718;Liam Barr ; Thomas Wootton;Invité
+32;719;Candida Rundle ; Hannah McNeil;Invité
+32;720;Patrick Hannaway ; Dr. Willis;Invité
+32;721;Ian Coulson ; Constable;Invité
+32;722;Chris Hargreaves ; Constable Harrison (as Christopher Hargreaves);Invité
+32;723;Jamie Christian ; Constable Dean;Invité
+32;724;Jeff Nuttall ; Mr. Justice Benham;Invité
+32;725;Michael Culkin ; Mr. Sergeant Williams, Prosecution;Invité
+32;726;Simeon Andrews ; Mr. Sergeant Lyons, Defence;Invité
+32;727;Peter Glancy ; Jury Foreman;Invité
+32;728;Robert Ashe ; Foreman;Invité
+32;729;Juliet Cowan ; Joanna Franks;Invité
+32;730;Nick Raggett ; Stevens;Invité
+32;731;Robert Gasser ; Librarian;Invité
+32;732;Sarah Lam ; Susan Ho;Invité
+32;733;Neville Phillips ; Chaplain;Invité
+32;734;Roger Llewellyn ; Governor;Invité
+32;735;Osmund Bullock ; Verger;Invité
+32;736;Eamon Geoghegan ; Mulvaney;Invité
+32;737;Robert Atiko ; MC;Invité
+33;738;Meg Davies ; Yvonne Harrison;Invité
+33;739;Eddie Webber ; Harry Repp;Invité
+33;740;Anna Wilson;Jones  Sandra Harrison;Invité
+33;741;Paul Freeman ; Frank Harrison;Invité
+33;742;James Benson ; Paddy Flynn;Invité
+33;743;Paul Hegarty ; SOCO Officer;Invité
+33;744;T. P. McKenna ; Professor Sir Lionel Phelps;Invité
+33;745;Helen Pearson ; Debbie Repp;Invité
+33;746;Sean Wightman ; PC at Landfill;Invité
+33;747;Jesse Birdsall ; John Barron;Invité
+33;748;Aidan David ; Roy Holmes  (as Aidan J. David);Invité
+33;749;Colin Spaull ; Chas (Pub Landlord);Invité
+33;750;Simon Hepworth ; Simon Harrison;Invité
+33;751;Richard Betts ; Waiter;Invité
+33;752;Barbara Lott ; Mrs. Bayley;Invité
+33;753;Barbara Kirby ; Shop Assistant;Invité
+33;754;Annette Ekblom ; Mrs. Liz Holmes;Invité
+33;755;Wesley Smith ; Newsreader;Invité
+33;756;Anna Rose ; Tour Rep;Invité
+33;757;Timothy Kightley ; Morse s Solicitor (as Timothy Kightly);Invité
+33;758;Sharon Maiden ; Linda Barron;Invité
+33;759;Alisa Bosschaert ; Josie Flynn;Invité
+33;760;Ann Wenn ; Check in Clerk;Invité
+1;761;John Thaw ; Chief Inspector Morse;Principal
+1;762;Kevin Whately ; Detective Sergeant Lewis;Principal
+1;763;James Grout ; Chief Superintendent Strange;Principal
+1;764;Peter Woodthorpe ; Dr. Max DeBryn;Principal
+2;761;John Thaw ; Chief Inspector Morse;Principal
+2;762;Kevin Whately ; Detective Sergeant Lewis;Principal
+2;764;Peter Woodthorpe ; Dr. Max DeBryn;Principal
+3;761;John Thaw ; Chief Inspector Morse;Principal
+3;762;Kevin Whately ; Detective Sergeant Lewis;Principal
+3;764;Peter Woodthorpe ; Dr. Max DeBryn;Principal
+4;761;John Thaw ; Chief Inspector Morse;Principal
+4;762;Kevin Whately ; Detective Sergeant Lewis;Principal
+4;764;Peter Woodthorpe ; Dr. Max DeBryn;Principal
+5;761;John Thaw ; Chief Inspector Morse;Principal
+5;762;Kevin Whately ; Detective Sergeant Lewis;Principal
+5;764;Peter Woodthorpe ; Dr. Max DeBryn;Principal
+6;761;John Thaw ; Chief Inspector Morse;Principal
+6;762;Kevin Whately ; Detective Sergeant Lewis;Principal
+6;764;Peter Woodthorpe ; Dr. Max DeBryn;Principal
+7;761;John Thaw ; Chief Inspector Morse;Principal
+7;762;Kevin Whately ; Detective Sergeant Lewis;Principal
+7;764;Peter Woodthorpe ; Dr. Max DeBryn;Principal
+8;761;John Thaw ; Chief Inspector Morse;Principal
+8;762;Kevin Whately ; Detective Sergeant Lewis;Principal
+8;765;Amanda Hillwood; Dr. Grayling Russell;Principal
+9;761;John Thaw ; Chief Inspector Morse;Principal
+9;762;Kevin Whately ; Detective Sergeant Lewis;Principal
+9;765;Amanda Hillwood; Dr. Grayling Russell;Principal
+9;763;James Grout ;Chief Superintendent Strange;Principal
+10;761;John Thaw ; Chief Inspector Morse;Principal
+10;762;Kevin Whately ; Detective Sergeant Lewis;Principal
+10;765;Amanda Hillwood; Dr. Grayling Russell;Principal
+11;761;John Thaw ; Chief Inspector Morse;Principal
+11;762;Kevin Whately ; Detective Sergeant Lewis;Principal
+11;765;Amanda Hillwood; Dr. Grayling Russell;Principal
+11;763;James Grout;Chief Superintendent Strange;Principal
+12;761;John Thaw ; Chief Inspector Morse;Principal
+12;762;Kevin Whately ; Detective Sergeant Lewis;Principal
+13;761;John Thaw ; Chief Inspector Morse;Principal
+13;762;Kevin Whately ; Detective Sergeant Lewis;Principal
+14;763;James Grout;Chief Superintendent Strange;Principal
+14;761;John Thaw ; Chief Inspector Morse;Principal
+14;762;Kevin Whately ; Detective Sergeant Lewis;Principal
+15;763;James Grout;Chief Superintendent Strange;Principal
+15;761;John Thaw ; Chief Inspector Morse;Principal
+15;762;Kevin Whately ; Detective Sergeant Lewis;Principal
+16;763;James Grout;Chief Superintendent Strange;Principal
+16;761;John Thaw ; Chief Inspector Morse;Principal
+16;762;Kevin Whately ; Detective Sergeant Lewis;Principal
+17;763;James Grout;Chief Superintendent Strange;Principal
+17;761;John Thaw ; Chief Inspector Morse;Principal
+17;762;Kevin Whately ; Detective Sergeant Lewis;Principal
+18;763;James Grout;Chief Superintendent Strange;Principal
+18;761;John Thaw ; Chief Inspector Morse;Principal
+18;762;Kevin Whately ; Detective Sergeant Lewis;Principal
+19;763;James Grout;Chief Superintendent Strange;Principal
+19;761;John Thaw ; Chief Inspector Morse;Principal
+19;762;Kevin Whately ; Detective Sergeant Lewis;Principal
+20;763;James Grout;Chief Superintendent Strange;Principal
+20;761;John Thaw ; Chief Inspector Morse;Principal
+20;762;Kevin Whately ; Detective Sergeant Lewis;Principal
+21;763;James Grout;Chief Superintendent Strange;Principal
+21;761;John Thaw ; Chief Inspector Morse;Principal
+21;762;Kevin Whately ; Detective Sergeant Lewis;Principal
+22;761;John Thaw ; Chief Inspector Morse;Principal
+22;762;Kevin Whately ; Detective Sergeant Lewis;Principal
+23;761;John Thaw ; Chief Inspector Morse;Principal
+23;762;Kevin Whately ; Detective Sergeant Lewis;Principal
+23;763;James Grout;Chief Superintendent Strange;Principal
+24;761;John Thaw ; Chief Inspector Morse;Principal
+24;762;Kevin Whately ; Detective Sergeant Lewis;Principal
+24;763;James Grout;Chief Superintendent Strange;Principal
+25;761;John Thaw ; Chief Inspector Morse;Principal
+25;762;Kevin Whately ; Detective Sergeant Lewis;Principal
+25;763;James Grout;Chief Superintendent Strange;Principal
+26;761;John Thaw ; Chief Inspector Morse;Principal
+26;762;Kevin Whately ; Detective Sergeant Lewis;Principal
+26;763;James Grout;Chief Superintendent Strange;Principal
+27;761;John Thaw ; Chief Inspector Morse;Principal
+27;762;Kevin Whately ; Detective Sergeant Lewis;Principal
+27;763;James Grout;Chief Superintendent Strange;Principal
+28;761;John Thaw ; Chief Inspector Morse;Principal
+28;762;Kevin Whately ; Detective Sergeant Lewis;Principal
+28;763;James Grout;Chief Superintendent Strange;Principal
+29;766;Clare Holman;Dr. Laura Hobson;Principal
+29;761;John Thaw ; Chief Inspector Morse;Principal
+29;762;Kevin Whately ; Detective Sergeant Lewis;Principal
+29;763;James Grout;Chief Superintendent Strange;Principal
+30;766;Clare Holman;Dr. Laura Hobson;Principal
+30;761;John Thaw ; Chief Inspector Morse;Principal
+30;762;Kevin Whately ; Detective Sergeant Lewis;Principal
+30;763;James Grout;Chief Superintendent Strange;Principal
+31;766;Clare Holman;Dr. Laura Hobson;Principal
+31;761;John Thaw ; Chief Inspector Morse;Principal
+31;762;Kevin Whately ; Detective Sergeant Lewis;Principal
+31;763;James Grout;Chief Superintendent Strange;Principal
+32;763;James Grout;Chief Superintendent Strange;Principal
+32;766;Clare Holman;Dr. Laura Hobson;Principal
+32;761;John Thaw ; Chief Inspector Morse;Principal
+33;766;Clare Holman;Dr. Laura Hobson;Principal
+33;761;John Thaw ; Chief Inspector Morse;Principal
+33;762;Kevin Whately ; Detective Sergeant Lewis;Principal
+33;763;James Grout;Chief Superintendent Strange;Principal

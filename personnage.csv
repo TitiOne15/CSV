@@ -1,0 +1,864 @@
+﻿id_personnage;nom_personnage;statut;id_acteur
+1; Anne Staveley;Invité;1
+2; George Jackson;Invité;1
+3; Tony Richards;Invité;1
+4; Chief Inspector Bell;Invité;1
+5; Ned Murdoch;Invité;1
+6; Adele Richards;Invité;1
+7; Alan Richards;Invité;1
+8; Mrs Staveley;Invité;1
+9; Pete;Invité;1
+10; Tutor;Invité;1
+11; Grimes;Invité;1
+12; Pharmacist;Invité;1
+13; Hospital Doctor;Invité;1
+14; Coroner;Invité;1
+15; Constable Dixon (as Wayne Morris);Invité;1
+16; Colin;Invité;1
+17; Receptionist;Invité;1
+18;Evans ;Invité;1
+19; Jack Hornsby;Invité;1
+20; Mrs Hornsby;Invité;1
+21; Constable;Invité;1
+22; Charlotte;Invité;1
+23; Monica Height;Invité;1
+24; Philip Ogleby;Invité;1
+25; Dr Bartlett;Invité;1
+26; Dean of Lonsdale College;Invité;1
+27; Roope;Invité;1
+28; Donald Martin;Invité;1
+29; Mrs. Martin;Invité;1
+30; Nicholas Quinn;Invité;1
+31; Mrs. Quinn;Invité;1
+32; Noakes;Invité;1
+33; Coroner;Invité;1
+34; Mrs. Evans;Invité;1
+35; Nurse;Invité;1
+36; Cinema Manageress;Invité;1
+37; Richard Bartlett;Invité;1
+38; Sheik of Al;Invité;1
+39; Lip;Invité;1
+40; Mr. Parker;Invité;1
+41; Landlord;Invité;1
+42; Barmaid;Invité;1
+43; Ruth Rawlinson;Invité;1
+44; Lionel Pawlen;Invité;1
+45; Harry Josephs;Invité;1
+46; Mrs. Rawlinson;Invité;1
+47; Doctor Starkie;Invité;1
+48; Chief Superintendent Bell;Invité;1
+49; Paul Morris;Invité;1
+50; Brenda Josephs;Invité;1
+51; Taffy;Invité;1
+52; Jimmy;Invité;1
+53; Detective Constable Mitchell;Invité;1
+54; Denman;Invité;1
+55; Police Sergeant;Invité;1
+56; Waterman;Invité;1
+57; Church Warden;Invité;1
+58; Defence Counsel;Invité;1
+59; Prosecuting Counsel;Invité;1
+60; Landlord (as Ric Morgan);Invité;1
+61; Husband;Invité;1
+62; Wife;Invité;1
+63; Peter Morris;Invité;1
+64; Hotel Proprietor;Invité;1
+65; Policeman;Invité;1
+66; Nurse;Invité;1
+67; Girl in Betting Shop;Invité;1
+68; Gambler;Invité;1
+69; Choirboy;Invité;1
+70; Theodore Kemp;Invité;1
+71; Cedric Downes;Invité;1
+72; Sheila Williams;Invité;1
+73; Eddie Poindexter;Invité;1
+74; Laura Poindexter;Invité;1
+75; Howard Brown;Invité;1
+76; Shirley Brown;Invité;1
+77; Phil Aldrich;Invité;1
+78; Janet Roscoe;Invité;1
+79; Marion Kemp;Invité;1
+80; Lucy Downes;Invité;1
+81; Fiona Hall;Invité;1
+82; Doctor Swain;Invité;1
+83; Hotel Manager;Invité;1
+84;Knox  Duty Sergeant;Invité;1
+85; Nurse;Invité;1
+86; Lynn;Invité;1
+87; Waiter;Invité;1
+88; Waitress (as Teddy Thompson);Invité;1
+89; Donald Phillipson;Invité;1
+90; Cheryl Baines;Invité;1
+91; George Craven;Invité;1
+92; Grace Craven;Invité;1
+93; Sheila Phillipson;Invité;1
+94; David Acum;Invité;1
+95; Valerie Craven;Invité;1
+96; John Maguire;Invité;1
+97; Julia;Invité;1
+98; Fiona (as MichÃ¨le Winstanley);Invité;1
+99; Rachel;Invité;1
+100; Lesley;Invité;1
+101; Mrs. Webb;Invité;1
+102; PC Franks;Invité;1
+103; Martha;Invité;1
+104; Policewoman (as Elizabeth Kettle);Invité;1
+105; Bartender;Invité;1
+106; Porter;Invité;1
+107; Receptionist;Invité;1
+108; Check out Girl;Invité;1
+109; Becky Phillipson;Invité;1
+110; Charlie Phillipson;Invité;1
+111; George Phillipson;Invité;1
+112;Marshall  Jane Robson;Invité;1
+113; Sir Wilfred Mulryne;Invité;1
+114; Kurt Friedman, aka Michael Robson;Invité;1
+115; Chief Superintendent Dewar;Invité;1
+116; Mrs. Warbut;Invité;1
+117; Mirella Lunghi;Invité;1
+118; Graham Daniel;Invité;1
+119; Yukio Li;Invité;1
+120; Ralph Thomas;Invité;1
+121; Reverend Robson;Invité;1
+122; Alex Robson;Invité;1
+123; Heidi Vettinger;Invité;1
+124; Swedish Student;Invité;1
+125; Sergeant;Invité;1
+126; Peters;Invité;1
+127; Dewar s Detective;Invité;1
+128; Tramp;Invité;1
+129; Policewoman (as Elizabeth Kettle);Invité;1
+130; Gardener;Invité;1
+131; Bernard Crowther;Invité;1
+132; Clive Palmer;Invité;1
+133; Mrs. Jarman;Invité;1
+134; Jennifer Coleby;Invité;1
+135; Angie Hartman;Invité;1
+136; Peter Newman;Invité;1
+137; Mary Widdowson;Invité;1
+138; Margaret Crowther;Invité;1
+139; John Sanders;Invité;1
+140; Jimmy;Invité;1
+141; Mrs. Kane;Invité;1
+142; Sylvia Kane;Invité;1
+143; Vicki Phillips;Invité;1
+144; Sally;Invité;1
+145; Mr. Bentley;Invité;1
+146; Receptionist;Invité;1
+147; Senior Sister (as Steph Branwell);Invité;1
+148; Time and Motion Expert;Invité;1
+149; Typist;Invité;1
+150; Lab Assistant;Invité;1
+151; Game Keeper;Invité;1
+152; Police Officer;Invité;1
+153; Assistant in Snooker Shop;Invité;1
+154; Doctor;Invité;1
+155; Lady Hanbury;Invité;1
+156; Dr. Charles Hudson;Invité;1
+157; Professor Edward Ullman;Invité;1
+158; Sir Julius Hanbury;Invité;1
+159; John McKendrick;Invité;1
+160; Mrs. Maltby;Invité;1
+161; Michelle RÃ©age;Invité;1
+162; Betty Parker;Invité;1
+163; Ted Parker;Invité;1
+164; Roger Meadows;Invité;1
+165; The Dean;Invité;1
+166; Georgina Hanbury;Invité;1
+167; Detective;Invité;1
+168; Constable;Invité;1
+169; Plain Clothes Officer;Invité;1
+170; Policewoman;Invité;1
+171; Porter;Invité;1
+172; Laboratory Assistant;Invité;1
+173; Girl Pupil;Invité;1
+174; Sir Alexander Reece;Invité;1
+175; Arthur Drysdale;Invité;1
+176; Dr. David Kerridge;Invité;1
+177; Deborah Burns;Invité;1
+178; Carol Sharp;Invité;1
+179; Miss Tree;Invité;1
+180; Ben;Invité;1
+181; Mr. Collins;Invité;1
+182; Dentist;Invité;1
+183; Chris Stoneley;Invité;1
+184; Geoff;Invité;1
+185; Landlord;Invité;1
+186; Sam;Invité;1
+187; Mrs. Burns;Invité;1
+188; German Man;Invité;1
+189; German Woman;Invité;1
+190; Girl on Boat;Invité;1
+191; Young Woman;Invité;1
+192; Young Man;Invité;1
+193; Sabena;Invité;1
+194; Roland Marshall;Invité;1
+195; Kate Donn;Invité;1
+196; Anthony Donn;Invité;1
+197; Philippa Foster;Invité;1
+198; Vince Cranston;Invité;1
+199; Barker;Invité;1
+200; Peter Foster;Invité;1
+201; Jamie Jasper (as Nat Parker);Invité;1
+202; Radio Producer;Invité;1
+203; DC Hilaire;Invité;1
+204; Clarets  Captain;Invité;1
+205; Clarets  Batsman;Invité;1
+206; Clarets  Player;Invité;1
+207; Cassidy, Clarets  Fast Bowler;Invité;1
+208; Suspect Interviewee;Invité;1
+209; Radio Producer s P.A.;Invité;1
+210; WPC;Invité;1
+211; Forensic Sergeant (as David Shaw;Invité;1
+212; Patrol Officer;Invité;1
+213; Cricket Commentator (voice);Invité;1
+214; Rosemary Henderson;Invité;1
+215; Fran Pierce;Invité;1
+216; Edward Manley;Invité;1
+217; Brian Pierce;Invité;1
+218; George Henderson;Invité;1
+219; Camilla;Invité;1
+220; Mrs. Cameron;Invité;1
+221; Janice;Invité;1
+222; Ray Miles;Invité;1
+223; Amy Morris;Invité;1
+224; Inspector Cyril Dewar;Invité;1
+225; Mr. Waugh;Invité;1
+226; Band Leader;Invité;1
+227; Undertaker;Invité;1
+228; Nurse;Invité;1
+229; Gloria;Invité;1
+230; Constable;Invité;1
+230; Constable;Invité;1
+231; Aerobics Leader;Invité;1
+232; Orderly;Invité;1
+233; Decorator;Invité;1
+234; Mick;Invité;1
+235; Matthew Copley Barnes;Invité;1
+236; Dr. Julian Dear;Invité;1
+237;Hunt  Blanche Copley Barnes;Invité;1
+238; Mick McGovern;Invité;1
+239; Parsons;Invité;1
+240; Sylvie Maxton;Invité;1
+241; Mr. Gray;Invité;1
+242; Phil Hopkirk;Invité;1
+243; Jake Normington;Invité;1
+244; Imogen Garrett;Invité;1
+245; Ron Garrett;Invité;1
+246; Chief Superintendent Rennie;Invité;1
+247; Mrs. McGovern;Invité;1
+248; Ward Sister (as Phillipa Howell);Invité;1
+249; Mandy Hopkirk;Invité;1
+250; Hopkirk s Housekeeper;Invité;1
+251; Trevor Radford;Invité;1
+252; Alan Sowden;Invité;1
+253; Pathologist;Invité;1
+254; Norman Weeks;Invité;1
+255; Gail;Invité;1
+256; Cleaning Lady;Invité;1
+257; Helen Radford;Invité;1
+258; Butler;Invité;1
+259; Isobel Radford;Invité;1
+260; Stephen Radford;Invité;1
+261; Charles Radford;Invité;1
+262; Victor Preece;Invité;1
+263; Cynthia Preece;Invité;1
+264; George Linacre;Invité;1
+265; Alford Nelson;Invité;1
+266; Wheatley;Invité;1
+267; Maid;Invité;1
+268; Thelma Radford;Invité;1
+269; Shirley;Invité;1
+270; WPC;Invité;1
+271; Jackie Thorn;Invité;1
+272; George;Invité;1
+273; Angie Howe;Invité;1
+274; Jeremy Boynton;Invité;1
+275; Detective Constable Dearden;Invité;1
+276; Detective;Invité;1
+276; Detective;Invité;1
+276; Detective;Invité;1
+276; Detective;Invité;1
+277; Tim Ablett;Invité;1
+278; Phillipa Lau;Invité;1
+279; Whyting Lau;Invité;1
+280; D.S. Maitland;Invité;1
+281; Security Officer;Invité;1
+282; Paula Steadman;Invité;1
+283; Martin Kass;Invité;1
+284; Driving Instructor;Invité;1
+285; Derek Whittaker;Invité;1
+286; Jimmy;Invité;1
+287; Sandra;Invité;1
+288; Deaf Salesman;Invité;1
+289; Gerry Firth;Invité;1
+290; Prison Warden;Invité;1
+291; Beryl Newsome;Invité;1
+292; Hugo De Vries;Invité;1
+293; Sandra Machin;Invité;1
+294; Conductor;Invité;1
+295; Hall Porter;Invité;1
+296; Chief Inspector Bottomley;Invité;1
+297; Officious Constable (as Steven Elliott);Invité;1
+298; Detective Constable Dearden;Invité;1
+299; Desmond McNutt;Invité;1
+300; PC Mike Butterworth;Invité;1
+301; Marion Brooke;Invité;1
+302; Norman;Invité;1
+303; R.G. Prettyman;Invité;1
+304; Angry Neighbour;Invité;1
+305; Ambulance Man;Invité;1
+306; Yvonne;Invité;1
+307; Wine Merchant;Invité;1
+308; P.C. Dene;Invité;1
+309; Mrs. Keelan;Invité;1
+310; Frederick Redpath;Invité;1
+311; Detective Chief Inspector Patrick Dawson;Invité;1
+312; Charlie Hillian;Invité;1
+313; Catherine Dawson;Invité;1
+314; Angry Policeman;Invité;1
+315; Incontinent Policeman;Invité;1
+316; Mrs. Mitchell;Invité;1
+317; Terrence Mitchell;Invité;1
+318; Pathologist;Invité;1
+319; WPC;Invité;1
+320; Desk Sergeant (as David Bauckham);Invité;1
+321; Barbara Redpath;Invité;1
+322; Walter Majors;Invité;1
+323; French Man;Invité;1
+324; French Woman;Invité;1
+325; Doctor;Invité;1
+326; Reardon;Invité;1
+327; Rose Lapsley;Invité;1
+328;Fresne  Photographer (as Graeme du Fresne);Invité;1
+329; DoE Official;Invité;1
+330; Cowan;Invité;1
+331; Parks;Invité;1
+332; Street Preacher;Invité;1
+333; John Mitchell;Invité;1
+334; Lance Mandeville;Invité;1
+335; Geoffrey Boyd;Invité;1
+336; Desmond Kelly;Invité;1
+337; Dinah Newberry;Invité;1
+338; Emma Pickford;Invité;1
+339; Hilary Dobson;Invité;1
+340; Victoria Hazlett;Invité;1
+341;Jones Nadine Stacey;Invité;1
+342; Jane Barnes;Invité;1
+343; Dr Corder;Invité;1
+344; Mrs Gardam;Invité;1
+345; Freddie Galt;Invité;1
+346; Irene Saunders;Invité;1
+347; Rowlands;Invité;1
+348; Doctor;Invité;1
+349; Hank Briardale;Invité;1
+350; Mrs Hulme;Invité;1
+351; Chip Van Owner;Invité;1
+352; Judy;Invité;1
+353; Val Lewis;Invité;1
+354; Nun;Invité;1
+355; Harry Field;Invité;1
+356; Tony Doyle;Invité;1
+357; Helen Field;Invité;1
+358; Jane Marriot;Invité;1
+359; Sergeant Taylor;Invité;1
+360; Gordon Collins;Invité;1
+361; Barmaid;Invité;1
+362; Patrol Man;Invité;1
+363; Landlord;Invité;1
+364; Val Lewis;Invité;1
+365; Freddie Mortimer;Invité;1
+366; Julia;Invité;1
+367; Ian Matthews;Invité;1
+368; Harry Field Senior;Invité;1
+369; Paul Eirl;Invité;1
+370; Roger McMill;Invité;1
+371; George Drummond;Invité;1
+372; Eirl s Secretary;Invité;1
+373; Carl (as Stephen Grothgar);Invité;1
+374; McCabe;Invité;1
+375; Digby Tuckerman;Invité;1
+376; Nicos Capparis;Invité;1
+377; Mr Papas;Invité;1
+378; Mrs Papas;Invité;1
+379; Friday Rees;Invité;1
+380; Young Husband (TV Interview);Invité;1
+381; Young Wife (TV Interview);Invité;1
+382; Val Lewis;Invité;1
+383; Dinos Papas;Invité;1
+384; Basilios Vasilakis;Invité;1
+385; Jocasta Georgiadis (as Eve Adam);Invité;1
+386; Randall Rees;Invité;1
+387; Jerome Hogg;Invité;1
+388; Maria Capparis;Invité;1
+389; Laura;Invité;1
+390; Student;Invité;1
+391; Daisy (as Lucy Maycock);Invité;1
+392; Student Union Official;Invité;1
+393; First Angler;Invité;1
+394; Susie Tuckerman;Invité;1
+395; Mother s Help;Invité;1
+396; Mrs Vasilakis;Invité;1
+397; Paul Matthews;Invité;1
+398; Newspaper Editor;Invité;1
+399; Barman;Invité;1
+400; Farmer in Ute;Invité;1
+401; Karen Harding;Invité;1
+402; Anne Harding;Invité;1
+403; Sash (Nursing Home Matron);Invité;1
+404; Sergeant Scott Humphries;Invité;1
+405; Sal (Nurse);Invité;1
+406; Dave Harding;Invité;1
+407; Shearing Foreman;Invité;1
+408; Detective Inspector Glenn McAllister;Invité;1
+409; Detective Gary Warrender;Invité;1
+410; Barmaid;Invité;1
+411; Telecom Engineer;Invité;1
+412; Peter Rhodes;Invité;1
+413; Nurse Rogers (as Susan Jane Tanner);Invité;1
+414; Henry Fallon;Invité;1
+415; Duty Constable;Invité;1
+416; Desk Sergeant;Invité;1
+417; Photographer;Invité;1
+418; McGregor;Invité;1
+419; William Bryce Morgan;Invité;1
+420; Susan Fallon;Invité;1
+421; WPC;Invité;1
+422; Solicitor;Invité;1
+423; Coroner;Invité;1
+424; Pathologist;Invité;1
+425; Helen Marriat;Invité;1
+426; John Marriat;Invité;1
+427; Murray Stone;Invité;1
+428; Court Official;Invité;1
+429; Telephone Exchange Man;Invité;1
+430; Henrietta Fallon;Invité;1
+431; Constable (as Michael Tomlinson);Invité;1
+432; Lorraine;Invité;1
+433; Margaret Cliff;Invité;1
+434; James Balcombe;Invité;1
+435; Sir John Balcombe;Invité;1
+436; Harry Balcombe;Invité;1
+437; Alfred Rydale;Invité;1
+438; Lady Emily Balcombe;Invité;1
+439; Constable;Invité;1
+440; Billy;Invité;1
+441; Chas;Invité;1
+442; WPC (as Elizabeth Kettle);Invité;1
+443; Superintendent Holdsby;Invité;1
+444; Journalist One;Invité;1
+445; Woman Journalist (as Sophie Heyman);Invité;1
+446; Jessica White;Invité;1
+447; Forensic Scientist;Invité;1
+448; Police Sergeant (as David Bauckham);Invité;1
+449; Professor Joshua Masterson;Invité;1
+450; Journalist Two;Invité;1
+451; Pathologist;Invité;1
+452; Receptionist;Invité;1
+453; Constable;Invité;1
+454; Nottingham Lady;Invité;1
+455; Punch and Judy Man;Invité;1
+456; Russell Clarke;Invité;1
+457; Andreas Heller/Louis Picard (as Chris Hunter);Invité;1
+458; May Lawrence;Invité;1
+459; Patti Wilcox;Invité;1
+460; Nicole Burgess;Invité;1
+461; Alistair Haines;Invité;1
+462; Maureen Dyson;Invité;1
+463; Judith Haines;Invité;1
+464; Kenneth Lawrence;Invité;1
+465; Coroner;Invité;1
+466; Driver Ponso;Invité;1
+467; Claudio Battisti;Invité;1
+468; Guido Ventura;Invité;1
+469; Tomaso Salafia;Invité;1
+470; Piera Conti (as Tattiana Colombo);Invité;1
+471; Nicole s Dresser;Invité;1
+472; Nicole Burgess (singing voice);Invité;1
+473; Alex Bailey;Invité;1
+474; Hilary Stephens;Invité;1
+475; Brian Thornton;Invité;1
+476; Prison Chaplain;Invité;1
+477; Lawrence Cryer;Invité;1
+478; Young Doctor;Invité;1
+479; George Newcombe;Invité;1
+480; Geoff Harris (Prison Officer);Invité;1
+481; Laura (Secretary);Invité;1
+482; Dr. Stephen James Archer (Prison Officer);Invité;1
+483; Pathologist;Invité;1
+484; DS Cheetham;Invité;1
+485; Charlie Bennett;Invité;1
+486; Emma Cryer;Invité;1
+487;Wilson  Paul (Journalist);Invité;1
+488; Rob (Photographer);Invité;1
+489; Coroner;Invité;1
+490; Court Usher (as Sue Withers);Invité;1
+491; Peter Thornton (as Jonathon Firth);Invité;1
+492; Roland Sherman/Harold Manners (as Philip Davis);Invité;1
+493; Mrs. Bailey;Invité;1
+494; Andy Metcalfe;Invité;1
+495; Mrs. Harris;Invité;1
+496; College Chaplain;Invité;1
+497; Doctor in Casualty;Invité;1
+498; Vicky Wilson;Invité;1
+499; Dr. Desmond Collier;Invité;1
+500; Marilyn Garrett;Invité;1
+501; Charlie Paget;Invité;1
+502; Sally Smith;Invité;1
+503; Jacko Lever;Invité;1
+504; Joyce Garrett;Invité;1
+505; Gwen Morse;Invité;1
+506; Nurse (as Celia Blaker);Invité;1
+507; Ken Lewis (as Matthew Terdre);Invité;1
+508; Wayne Garrett;Invité;1
+509; Keith Garrett;Invité;1
+510; Janey Wilson;Invité;1
+511; Professor Furlong;Invité;1
+512; Chief Inspector Holroyd;Invité;1
+513; Charley Lever;Invité;1
+514; Annie Lever;Invité;1
+515; Mr. Greenhill;Invité;1
+516; Mrs. Venables;Invité;1
+517; Lyn Lewis;Invité;1
+518; Teacher;Invité;1
+519; Boy in Class;Invité;1
+520; Lady on Video;Invité;1
+521; Dr. Hallett;Invité;1
+522; Hilary Lane;Invité;1
+523; Dr. Hayward;Invité;1
+524; Bristowe;Invité;1
+525; Desk Sergeant (as David Bauckham);Invité;1
+526; Lizzy Haines;Invité;1
+527; Oakley (Estate Agent);Invité;1
+528; Bristowe s Girlfriend;Invité;1
+529; Tom (Patrolman);Invité;1
+530; Jane Folley;Invité;1
+531; John Brewster;Invité;1
+532; Dr. Claire Brewster;Invité;1
+533; Dr. Mathew Brewster;Invité;1
+534; Card Player (as Jestyn Philips);Invité;1
+535; Policeman;Invité;1
+536; Pathologist;Invité;1
+537; Mark Felsham;Invité;1
+538; Policeman;Invité;1
+539; Forensic Scientist;Invité;1
+540; Michael Steppings;Invité;1
+541; Dr. Greer;Invité;1
+542; Nurse Wendy Hazlitt;Invité;1
+543; Constable Willis;Invité;1
+544; Mr. Hart (Pub Landord) (as Tim Morand);Invité;1
+545; Mrs. Hart;Invité;1
+546; Sergeant Benson;Invité;1
+547; WPC;Invité;1
+548; Operator (as Nicholas Haverson);Invité;1
+549; Policeman;Invité;1
+550; Nurse;Invité;1
+551; Caretaker;Invité;1
+552; Thomas Neely;Invité;1
+553; Fingerprint Officer;Invité;1
+554; Policeman;Invité;1
+554; Policeman;Invité;1
+555; Nurse;Invité;1
+556; John Peter Barrie;Invité;1
+557; Dr. Esther Martin;Invité;1
+558; Jack Vaizey;Invité;1
+559; Young Porter;Invité;1
+560; Clough;Invité;1
+561; Desk Sergeant;Invité;1
+562; PC Pringle;Invité;1
+563; PC Cobbs;Invité;1
+564; Waitress;Invité;1
+565; Frank McTeer;Invité;1
+566; Mack Shaw;Invité;1
+567; Larry Broomfield;Invité;1
+568; 1st Press Person;Invité;1
+569; 2nd Press Person;Invité;1
+570; Canon Humphrey Appleton;Invité;1
+571; Miss Sarah Spillers;Invité;1
+572; Timothy Perry;Invité;1
+573; WPC Nora Curtis;Invité;1
+574; Holly Trevors;Invité;1
+575; Maugham Willowbank;Invité;1
+576; Steven Trevors;Invité;1
+577; TV Press Man;Invité;1
+578; Press Person;Invité;1
+579; Sergeant Brenner;Invité;1
+580; Night Hawk 2;Invité;1
+581; Night Hawk 3 (as Andrew Bradford);Invité;1
+582; Poacher;Invité;1
+583; Identikit Officer;Invité;1
+584; Jane Post;Invité;1
+585; Mr. Fox;Invité;1
+586; Heironymous St John;Invité;1
+587; Barmaid;Invité;1
+588; Porter;Invité;1
+589; George Granger (as Antony Carrick);Invité;1
+590; Fingerprint Officer;Invité;1
+591; Singer of Massenet Aria (voice);Invité;1
+592; Gwladys Probert;Invité;1
+593; Tammy;Invité;1
+594; Sir Watkin Davies;Invité;1
+595; Adele Baydon;Invité;1
+596; Arabella Baydon;Invité;1
+597; Mark Scott;Invité;1
+598; Victor Ignotas;Invité;1
+599; Alan Cartwright;Invité;1
+600; Lyman Stansky;Invité;1
+601; Andrew Baydon;Invité;1
+602; Helen Buscott;Invité;1
+603; Janet;Invité;1
+604; Gentile Bellocchio;Invité;1
+605; Simon Vavasseur;Invité;1
+606; Mari Probert;Invité;1
+607; Stephen Bartlett;Invité;1
+608; Mrs. Thompson;Invité;1
+609; Lord Hinksey;Invité;1
+610; Lady Hinksey;Invité;1
+611; Florist;Invité;1
+612; Pierre;Invité;1
+613; Brigitte de Plessy;Invité;1
+614; Policeman;Invité;1
+615; Clergyman Williams;Invité;1
+616;Wise  Page Boy (as Charlie Walker Wise);Invité;1
+617; Police Constable;Invité;1
+617; Police Constable;Invité;1
+618; Police Sergeant;Invité;1
+619; Librarian;Invité;1
+620; Reporter;Invité;1
+620; Reporter;Invité;1
+621; Police Sergeant;Invité;1
+622; Police Detective;Invité;1
+623; Reporter;Invité;1
+624; Fingerprint Lab Director;Invité;1
+625; Singing voice of Gwladys Probert (voice);Invité;1
+626; Steven Parnell;Invité;1
+627; Claire Osborne;Invité;1
+628; Dr. Alan Hardinge;Invité;1
+629; Prison Chaplain;Invité;1
+630; Margaret Daley;Invité;1
+631; Philip Daley;Invité;1
+632; George Daley (as Chris Fairbank);Invité;1
+633; TV Reporter;Invité;1
+634; DCI Martin Johnson;Invité;1
+635; Cathy Michaels;Invité;1
+636; Williams;Invité;1
+637; DC Renton;Invité;1
+638; Alisdair McBride;Invité;1
+639; David Michaels;Invité;1
+640; Estate Manager;Invité;1
+641; Lynne Hardinge;Invité;1
+642; Croxley;Invité;1
+643; Mourner (as Alex Richardson);Invité;1
+644; Garage Cashier;Invité;1
+645; Brenda Brooks;Invité;1
+646; Julia Stevens;Invité;1
+647; Dr. Felix McClure;Invité;1
+648; Michael Mansell;Invité;1
+649; Brownlee;Invité;1
+650; Ted Brooks;Invité;1
+651; Kevin Costyn;Invité;1
+652; Mrs. Barnett;Invité;1
+653; Detective;Invité;1
+654; Jane Cotterell;Invité;1
+655; Nurse;Invité;1
+656; Kay Brooks;Invité;1
+657; Dr. Hassan;Invité;1
+658; Ashley Davies;Invité;1
+659; Trainer;Invité;1
+660; Constable;Invité;1
+661; Student;Invité;1
+661; Student;Invité;1
+661; Student;Invité;1
+661; Student;Invité;1
+662; Receptionist;Invité;1
+663; Waterman;Invité;1
+664; Policeman;Invité;1
+665; Hospital Sitcom;Invité;1
+666; Lab Detective;Invité;1
+667; Lab Detective (as Andrew James Scott);Invité;1
+668; Nurse;Invité;1
+669; Policewoman;Invité;1
+670;Thomas Policeman;Invité;1
+671; Geoffrey Owens;Invité;1
+672; Rachel James;Invité;1
+673; Adele Cecil;Invité;1
+674; Mrs. Adams;Invité;1
+675; Denis Cornford;Invité;1
+676; Shelley Cornford;Invité;1
+677; Sir Clixby Bream;Invité;1
+678; Dora Hammersby;Invité;1
+679; Dr. Julian Storrs;Invité;1
+680; DC Jackson;Invité;1
+681; Angela Storrs;Invité;1
+682; Hargreaves (as Colin MacCormack);Invité;1
+683; Amber;Invité;1
+684; Barman;Invité;1
+685; Diane Cullingham;Invité;1
+686; Hotel Porter;Invité;1
+687; PC Dixon;Invité;1
+688; Cathy (Hotel Maid);Invité;1
+689; Lord Lieutenant;Invité;1
+690; Chief Constable;Invité;1
+691; Ken Lewis;Invité;1
+692; Sarah Hickman;Invité;1
+693; Dr. Millicent  Millie  Van Buren;Invité;1
+694; Nurse Hall;Invité;1
+695; Walter Towns (as David Keys);Invité;1
+696; Rory Jack Oldfield;Invité;1
+697; Adele Cecil;Invité;1
+698; Mr. Greenaway;Invité;1
+699; Sister Nessie McLean;Invité;1
+700; Nurse Fiona;Invité;1
+701; Mr. Benfield;Invité;1
+702; Mona;Invité;1
+703; PC Adrian Kershaw;Invité;1
+704; Philip Tomes;Invité;1
+705; Ward (as Andy Grubb);Invité;1
+706; Alfred Musson;Invité;1
+707; Charles Franks (as Kieran Ahern);Invité;1
+708; Thomas Wootton;Invité;1
+709; Hannah McNeil;Invité;1
+710; Dr. Willis;Invité;1
+711; Constable;Invité;1
+712; Constable Harrison (as Christopher Hargreaves);Invité;1
+713; Constable Dean;Invité;1
+714; Mr. Justice Benham;Invité;1
+715; Mr. Sergeant Williams, Prosecution;Invité;1
+716; Mr. Sergeant Lyons, Defence;Invité;1
+717; Jury Foreman;Invité;1
+718; Foreman;Invité;1
+719; Joanna Franks;Invité;1
+720; Stevens;Invité;1
+721; Librarian;Invité;1
+722; Susan Ho;Invité;1
+723; Chaplain;Invité;1
+724; Governor;Invité;1
+725; Verger;Invité;1
+726; Mulvaney;Invité;1
+727; MC;Invité;1
+728; Yvonne Harrison;Invité;1
+729; Harry Repp;Invité;1
+730;Jones  Sandra Harrison;Invité;1
+731; Frank Harrison;Invité;1
+732; Paddy Flynn;Invité;1
+733; SOCO Officer;Invité;1
+734; Professor Sir Lionel Phelps;Invité;1
+735; Debbie Repp;Invité;1
+736; PC at Landfill;Invité;1
+737; John Barron;Invité;1
+738; Roy Holmes  (as Aidan J. David);Invité;1
+739; Chas (Pub Landlord);Invité;1
+740; Simon Harrison;Invité;1
+741; Waiter;Invité;1
+742; Mrs. Bayley;Invité;1
+743; Shop Assistant;Invité;1
+744; Mrs. Liz Holmes;Invité;1
+745; Newsreader;Invité;1
+746; Tour Rep;Invité;1
+747; Morse s Solicitor (as Timothy Kightly);Invité;1
+748; Linda Barron;Invité;1
+749; Josie Flynn;Invité;1
+750; Check in Clerk;Invité;1
+761; Chief Inspector Morse;Principal;761
+762; Detective Sergeant Lewis;Principal;762
+763; Chief Superintendent Strange;Principal;763
+764; Dr. Max DeBryn;Principal;764
+761; Chief Inspector Morse;Principal;761
+762; Detective Sergeant Lewis;Principal;762
+764; Dr. Max DeBryn;Principal;764
+761; Chief Inspector Morse;Principal;761
+762; Detective Sergeant Lewis;Principal;762
+764; Dr. Max DeBryn;Principal;764
+761; Chief Inspector Morse;Principal;761
+762; Detective Sergeant Lewis;Principal;762
+764; Dr. Max DeBryn;Principal;764
+761; Chief Inspector Morse;Principal;761
+762; Detective Sergeant Lewis;Principal;762
+764; Dr. Max DeBryn;Principal;764
+761; Chief Inspector Morse;Principal;761
+762; Detective Sergeant Lewis;Principal;762
+764; Dr. Max DeBryn;Principal;764
+761; Chief Inspector Morse;Principal;761
+762; Detective Sergeant Lewis;Principal;762
+764; Dr. Max DeBryn;Principal;764
+761; Chief Inspector Morse;Principal;761
+762; Detective Sergeant Lewis;Principal;762
+765; Dr. Grayling Russell;Principal;765
+761; Chief Inspector Morse;Principal;761
+762; Detective Sergeant Lewis;Principal;762
+765; Dr. Grayling Russell;Principal;765
+763;Chief Superintendent Strange;Principal;763
+761; Chief Inspector Morse;Principal;761
+762; Detective Sergeant Lewis;Principal;762
+765; Dr. Grayling Russell;Principal;765
+761; Chief Inspector Morse;Principal;761
+762; Detective Sergeant Lewis;Principal;762
+765; Dr. Grayling Russell;Principal;765
+763;Chief Superintendent Strange;Principal;763
+761; Chief Inspector Morse;Principal;761
+762; Detective Sergeant Lewis;Principal;762
+761; Chief Inspector Morse;Principal;761
+762; Detective Sergeant Lewis;Principal;762
+763;Chief Superintendent Strange;Principal;763
+761; Chief Inspector Morse;Principal;761
+762; Detective Sergeant Lewis;Principal;762
+763;Chief Superintendent Strange;Principal;763
+761; Chief Inspector Morse;Principal;761
+762; Detective Sergeant Lewis;Principal;762
+763;Chief Superintendent Strange;Principal;763
+761; Chief Inspector Morse;Principal;761
+762; Detective Sergeant Lewis;Principal;762
+763;Chief Superintendent Strange;Principal;763
+761; Chief Inspector Morse;Principal;761
+762; Detective Sergeant Lewis;Principal;762
+763;Chief Superintendent Strange;Principal;763
+761; Chief Inspector Morse;Principal;761
+762; Detective Sergeant Lewis;Principal;762
+763;Chief Superintendent Strange;Principal;763
+761; Chief Inspector Morse;Principal;761
+762; Detective Sergeant Lewis;Principal;762
+763;Chief Superintendent Strange;Principal;763
+761; Chief Inspector Morse;Principal;761
+762; Detective Sergeant Lewis;Principal;762
+763;Chief Superintendent Strange;Principal;763
+761; Chief Inspector Morse;Principal;761
+762; Detective Sergeant Lewis;Principal;762
+761; Chief Inspector Morse;Principal;761
+762; Detective Sergeant Lewis;Principal;762
+761; Chief Inspector Morse;Principal;761
+762; Detective Sergeant Lewis;Principal;762
+763;Chief Superintendent Strange;Principal;763
+761; Chief Inspector Morse;Principal;761
+762; Detective Sergeant Lewis;Principal;762
+763;Chief Superintendent Strange;Principal;763
+761; Chief Inspector Morse;Principal;761
+762; Detective Sergeant Lewis;Principal;762
+763;Chief Superintendent Strange;Principal;763
+761; Chief Inspector Morse;Principal;761
+762; Detective Sergeant Lewis;Principal;762
+763;Chief Superintendent Strange;Principal;763
+761; Chief Inspector Morse;Principal;761
+762; Detective Sergeant Lewis;Principal;762
+763;Chief Superintendent Strange;Principal;763
+761; Chief Inspector Morse;Principal;761
+762; Detective Sergeant Lewis;Principal;762
+763;Chief Superintendent Strange;Principal;763
+766;Dr. Laura Hobson;Principal;766
+761; Chief Inspector Morse;Principal;761
+762; Detective Sergeant Lewis;Principal;762
+763;Chief Superintendent Strange;Principal;763
+766;Dr. Laura Hobson;Principal;766
+761; Chief Inspector Morse;Principal;761
+762; Detective Sergeant Lewis;Principal;762
+763;Chief Superintendent Strange;Principal;763
+766;Dr. Laura Hobson;Principal;766
+761; Chief Inspector Morse;Principal;761
+762; Detective Sergeant Lewis;Principal;762
+763;Chief Superintendent Strange;Principal;763
+763;Chief Superintendent Strange;Principal;763
+766;Dr. Laura Hobson;Principal;766
+761; Chief Inspector Morse;Principal;761
+766;Dr. Laura Hobson;Principal;766
+761; Chief Inspector Morse;Principal;761
+762; Detective Sergeant Lewis;Principal;762
+763;Chief Superintendent Strange;Principal;763
